@@ -1,11 +1,11 @@
 # REST SERVER BASE
 
-```
-
 ## Instalar dependencias necesarias
 
-        ### _npm install_
-        o bien
-        ### _npm i_
+> ejecuta el siguiente comando:
 
-```
+#### npm install
+
+> También puedes ejecutar:
+
+#### npm i
